@@ -229,3 +229,4 @@ Expected output includes:
 - Re-run dependency install: `uv add langchain langgraph google-genai langchain-openai tavily-python python-dotenv`
 - Then re-run: `uv run python verify_keys.py`
 
+# agentic_course
