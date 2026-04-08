@@ -6,4 +6,7 @@ uv sync
 
 # Active Venv
 .venv\Scripts\activate
+
+# Show all libary
+pip list
 ```

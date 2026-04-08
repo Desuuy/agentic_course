@@ -8,6 +8,7 @@ dependencies = [
     "chromadb>=1.5.5",
     "flashrank>=0.2.10",
     "google-genai>=1.68.0",
+    "ipykernel>=7.2.0",
     "langchain>=1.2.13",
     "langchain-chroma>=1.1.0",
     "langchain-classic>=1.0.3",
